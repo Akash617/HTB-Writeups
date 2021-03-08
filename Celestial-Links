@@ -1,0 +1,3 @@
+Youtube video on Node.js exploit: https://www.youtube.com/watch?v=GFacPoWOcw0
+Post explaining the exploit: https://opsecx.com/index.php/2017/02/08/exploiting-node-js-deserialization-bug-for-remote-code-execution/
+Nodejsshell.py: https://github.com/ajinabraham/Node.Js-Security-Course/blob/master/nodejsshell.py
